@@ -253,8 +253,7 @@ footer h3 p{
     }
     /* Contato*/
     form{
-        margin-left: 5em;
-        margin-right: 1em;
+        margin: 0 auto;
     }
 
     /* Footer */

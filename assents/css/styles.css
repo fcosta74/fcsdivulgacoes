@@ -209,7 +209,7 @@ footer h3 p{
     padding: .3em;
 }
 
-@media (max-width: 450px){
+@media (max-width: 500px){
     header{
         height: 3em;
         margin-left: -2em;
@@ -253,7 +253,7 @@ footer h3 p{
     }
     /* Contato*/
     form{
-        margin-left: 2em;
+        margin-left: 5em;
         margin-right: 1em;
     }
 

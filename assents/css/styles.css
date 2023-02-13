@@ -35,6 +35,7 @@ header li{
     text-align: center;
     color: black;
     font-size: 2.5em;
+    width: 100%;
 }
 nav ul{
     list-style: none;
@@ -229,8 +230,7 @@ footer h3 p{
     }
     #lojas h1{
         font-size: 1.5em;
-        width: 19em;
-        text-align: legt;
+        width: 20em;
     }
     #containeres{
         flex-direction: column;
@@ -249,7 +249,7 @@ footer h3 p{
     }
     #servicos p{
         margin-left: 1em;
-        margin-right: 0.2em;
+        margin-right: 0.4em;
     }
     /* Contato*/
     form{

@@ -43,7 +43,6 @@ nav a{
     text-decoration: none;
     font-size: 2em;
     padding-inline: 1em;
-    margin-right: 0;
     list-style: none;
 }
 #lojas{
@@ -213,20 +212,25 @@ footer h3 p{
 @media (max-width: 450px){
     header{
         height: 3em;
+        margin-left: -2em;
     }
     header .logo{
-        margin-left: 0;
+        margin-left: 0.5em;
 
+    }
+    nav a{
+        display: block;
     }
     header li{
         font-size: 0.5em;
         margin-top: 5em;
-        display: flex;
+        display: block;
         width: 50em;
     }
     #lojas h1{
         font-size: 1.5em;
         width: 19em;
+        margin-left: 1em;
     }
     #containeres{
         flex-direction: column;
@@ -245,12 +249,12 @@ footer h3 p{
     }
     #servicos p{
         margin-left: 1em;
-        margin-right: 0.5em;
+        margin-right: 0.2em;
     }
     /* Contato*/
     form{
-        margin-left: 5em;
-        margin-right: -2em;
+        margin-left: 2em;
+        margin-right: 1em;
     }
 
     /* Footer */

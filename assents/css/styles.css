@@ -231,7 +231,7 @@ footer h3 p{
     #lojas h1{
         font-size: 1.5em;
         width: 16em;
-        margin-left: 0;
+        margin: 0 auto;
     }
     #containeres{
         flex-direction: column;

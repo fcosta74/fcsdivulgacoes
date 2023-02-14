@@ -246,8 +246,7 @@ footer h3 p{
         margin-top: -5em;
     }
     #servicos p{
-        margin-left: .5em;
-        margin-right: .5em;
+        margin: 0 1em;
     }
     /* Contato*/
     form{

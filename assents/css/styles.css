@@ -208,7 +208,7 @@ footer h3 p{
     padding: .3em;
 }
 
-@media (max-width: 500px){
+@media (max-width: 400px){
     header{
         height: 3em;
         margin-left: -2em;

@@ -227,6 +227,7 @@ footer h3 p{
         margin-top: 5em;
         display: block;
         width: 50em;
+        magin-left: 0.5em;
     }
     #lojas h1{
         font-size: 1.5em;
@@ -249,7 +250,7 @@ footer h3 p{
     }
     #servicos p{
         margin-left: 1em;
-        margin-right: 0.4em;
+        margin-right: 1em;
     }
     /* Contato*/
     form{

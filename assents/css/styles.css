@@ -209,10 +209,7 @@ footer h3 p{
 }
 
 @media (max-width: 500px){
-    header{
-        height: 3em;
-        margin-left: -2em;
-    }
+    
     header .logo{
         margin-left: 0.5em;
 

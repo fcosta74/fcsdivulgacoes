@@ -124,7 +124,7 @@ nav a{
     font-size: 2.5em;
 }
 form{
-    width: 20em;
+    width: 25em;
     margin: 0 auto;
     padding: 1em;
     border: 1px solid black;
@@ -140,24 +140,28 @@ label{
     margin-top: 0.4em;
 }
 input{
-    width: 21.5em;
+    width: 23em;
     color: black;
-    border-radius: 5px;
+    border-radius: 8px;
     padding: 6px 8px;
     margin-left: 1px;
     border: 1px solid black;
+    height: 3em;
+    font-size: 1em;
 }
 textarea{
-    border-radius: 5px;
+    border-radius: 8px;
     color: black;
     height: 10em;
-    width: 21.5em;
+    width: 19em;
     resize: none;
+    padding: 0.5em;
+    font-size: 1.5em;
 }
 #btn{
     color: black;
-    border-radius: 5px;
-    width: 12em;
+    border-radius: 8px;
+    width: 15.5em;
     cursor: pointer;
     margin-top: 0.4em;
     padding: 6px 8px;
@@ -229,16 +233,17 @@ footer h3 p{
         padding: 0.5em;
     }
     form{
-        width: 18em;
+        width: 18.1em;
+        margin-left: 1.5em;
     }
     input{
-        width: 19em;
+        width: 16.5em;
     }
     textarea{
-        width: 19em;
+        width: 13.5em;
     }
     #btn{
-        width: 10.5em;
+        width: 11em;
     }
     footer{
         font-size: .7em;
@@ -292,6 +297,16 @@ footer h3 p{
     /* Contato*/
     form{
         margin: 0 auto;
+        width: 22em;
+    }
+    input{
+        width: 19.5em;
+    }
+    textarea{
+        width: 16em;
+    }
+    #btn{
+        width: 13em;
     }
 
     /* Footer */

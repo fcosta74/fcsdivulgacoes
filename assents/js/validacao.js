@@ -27,5 +27,5 @@ const validForm = function (event) {
     }
 
 
-    alert ("Todos os dados são válidos")
+    alert ("Dados enviado com sucesso")
 }

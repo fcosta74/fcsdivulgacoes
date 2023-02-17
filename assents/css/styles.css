@@ -60,7 +60,7 @@ nav a{
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 20%;
+    max-width: 40%;
 
 }
 .container .img1{
@@ -224,11 +224,6 @@ footer h3 p{
         display: block;
         font-size: 1.5em;
     }
-    header li{
-        font-size: 0.5em;
-        margin-top: 5em;
-        display: block;
-    }
     #lojas{
         padding: 0.5em;
     }
@@ -271,6 +266,7 @@ footer h3 p{
      }
     #lojas{
         padding: 1em;
+        margin-bottom: 1em;
     }
     #lojas h1{
         font-size: 1.5em;
@@ -281,7 +277,7 @@ footer h3 p{
         align-items: center;
         width: auto;
         padding: 2em;
-        margin: 0;
+
     }
     .container{
         max-width: 100%;
@@ -325,14 +321,21 @@ footer h3 p{
     header li{
         font-size: 0.5em;
     }
-     header .logo{
+    header .logo{
         margin-left: 0.5em;
+    }
+    header li{
+        margin-top: 5em;
+        display: block;
     }
     #containeres{
         flex-direction: column;
         align-items: center;
-        padding: 2em;
-        margin: 0;
+        padding: 3em;
+
+    }
+    #containeres a{
+        margin-bottom: 1em;
     }
     .container .img1{
         width: 250px;
@@ -344,6 +347,12 @@ footer h3 p{
     .container a{
         width: 10em;
 
+    }
+    #serviços{
+        width: 100%;
+    }
+    #servicos p{
+        margin: 0 1em;
     }
     footer{
         width: 100%;

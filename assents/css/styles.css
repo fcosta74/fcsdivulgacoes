@@ -260,13 +260,15 @@ footer h3 p{
     }
     header .logo{
         margin-left: 0.5em;
+
     }
     nav a{
         display: block;
+        font-size: 1em;
     }
     nav ul{
         list-style: none;
-        font-size: .8em;
+     
     }
     header li{
         margin-top: 3em;

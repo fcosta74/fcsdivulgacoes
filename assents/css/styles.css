@@ -218,7 +218,6 @@ footer h3 p{
     }
     header .logo{
         margin-left: 0.2em;
-
     }
     nav a{
         display: block;
@@ -262,7 +261,6 @@ footer h3 p{
     header li{
         font-size: 0.5em;
         margin-top: 5em;
-        display: block;
      }
     #lojas{
         padding: 1em;
@@ -318,14 +316,14 @@ footer h3 p{
     }
 }
 @media screen and (max-width: 1024px){
-    header li{
-        font-size: 0.5em;
-    }
     header .logo{
         margin-left: 0.5em;
     }
     header li{
         margin-top: 5em;
+        font-size: .5em;
+    }
+    nav a{
         display: block;
     }
     #containeres{

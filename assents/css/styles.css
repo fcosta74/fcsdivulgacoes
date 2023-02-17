@@ -214,7 +214,7 @@ footer h3 p{
 @media screen and (max-width: 300px){
     header{
         height: 3em;
-        margin-left: -1em;
+
     }
     header .logo{
         margin-left: 0.2em;
@@ -250,7 +250,7 @@ footer h3 p{
 @media screen and (max-width: 400px){
     header{
         height: 3em;
-        margin-left: -2em;
+
     }
     header .logo{
         margin-left: 0.5em;

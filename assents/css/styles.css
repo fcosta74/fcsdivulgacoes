@@ -321,7 +321,8 @@ footer h3 p{
     }
     header li{
         margin-top: 5em;
-        font-size: .5em;
+        font-size: .8em;
+        margin-left: 2em;
     }
     nav a{
         display: block;

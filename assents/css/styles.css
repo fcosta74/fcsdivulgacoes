@@ -16,7 +16,6 @@ body {
 header{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 1em;
 }
 header li{
     margin-top: 2em;
@@ -219,13 +218,10 @@ footer h3 p{
     nav a{
         display: block;
         font-size: 1em;
-        margin-top: .5em;
     }
     nav ul{
         list-style: none;
-        width: 8em;
-        margin-top: 2.5em;
-
+        width: 10em;
     }
     #lojas{
         padding: 0.5em;
@@ -253,16 +249,15 @@ footer h3 p{
 
 @media screen and (max-width: 400px){
     header{
-        height: 3em;
+        height: 6em;
     }
     nav a{
         display: block;
-        font-size: .8em;
-        margin-top: 2em;
+        font-size: 1em;
     }
     nav ul{
         list-style: none;
-     
+        margin-top: 1.8em;
     }
     header li{
         display: block;
@@ -321,15 +316,9 @@ footer h3 p{
     }
 }
 @media screen and (max-width: 1024px){
-    header li{
-        margin-top: 1em;
-        font-size: 0.8em;
-    }
     nav a{
         display: block;
-        
     }
-
     #containeres{
         flex-direction: column;
         align-items: center;
